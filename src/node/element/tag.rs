@@ -157,6 +157,7 @@ implement! {
     Symbol: "symbol",
     Text: "text",
     TextPath: "textPath",
+    TSpan: "tspan",
     Title: "title",
     Use: "use",
 }
